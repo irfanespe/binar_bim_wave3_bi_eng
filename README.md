@@ -3,5 +3,13 @@
 ## Chapter 7 
 - FD 1 : [python basic](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter7/pandas_basic.ipynb)
 - FD 2 :
-  - activity : [pandas basic until point 5](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter7/pandas_basic.ipynb)
+  - materials : [pandas basic until point 5](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter7/pandas_basic.ipynb)
   - dataset : [mart_data_cut.csv](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/mart_data_cut.csv)
+- FD 3 :
+  - materials : 
+    1. [pandas basic 6 and 7](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter7/pandas_basic.ipynb)
+    2. [data quality check](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter7/data_quality_and_data_cleansing.ipynb)
+  - dataset :
+    1. [mart_data_cut.csv](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/mart_data_cut.csv)
+    2. [ecommerce_women_clothing.csv](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/ecommerce_women_clothing.csv)
+  - activity dataset : (hote reservation)[] 
