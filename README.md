@@ -12,8 +12,12 @@
   - activity : Dataset [hotel reservation](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/Hotel%20Reservations.csv)
 - FD 4 :
   - materials : [data cleansing](c:\Users\irfan\OneDrive\Pictures\Screenshots\wave 3 Ch 7 Fd 4.png)
-  - dataset : [wome_clothing_ecommerce.csv](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/ecommerce_women_clothing.csv)
+  - dataset : [women_clothing_ecommerce.csv](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/ecommerce_women_clothing.csv)
 - FD 5 :
   - materials : [Extract and Load Process](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter7/ETL.ipynb)
   - dataset : [sales_order_mp.slxs](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/sales_order_mp.xlsx)
   - activity : do extract, data quality check, and load process with dataset [sprocket](https://github.com/irfanespe/binar_bim_wave3_bi_eng/tree/master/dataset/sprocket)
+
+- FD 6 :
+  - materials : [Transform](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter7/ETL.ipynb)
+  - dataset : [sales_order_mp.slxs](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/sales_order_mp.xlsx), [wome_clothing_ecommerce.csv](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/ecommerce_women_clothing.csv)
