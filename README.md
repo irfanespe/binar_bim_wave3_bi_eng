@@ -21,3 +21,7 @@
 - FD 6 :
   - materials : [Transform](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter7/ETL.ipynb)
   - dataset : [sales_order_mp.slxs](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/sales_order_mp.xlsx), [wome_clothing_ecommerce.csv](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/ecommerce_women_clothing.csv)
+
+  ## Chapter 8
+  - FD 1 : 
+    - dataset : 
