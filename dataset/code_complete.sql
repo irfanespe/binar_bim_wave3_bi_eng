@@ -12,7 +12,8 @@ INSERT INTO categories (category_id, category_name, description) VALUES
 (5, 'Grains/Cereals', 'Breads, crackers, pasta, and cereal'),
 (6, 'Meat/Poultry', 'Prepared meats'),
 (7, 'Produce', 'Dried fruit and bean curd'),
-(8, 'Seafood', 'Seaweed and fish');
+(8, 'Seafood', 'Seaweed and fish'),
+(9, NULL, 'ligh meals and snack');
 
 
  CREATE TABLE customers (
@@ -338,13 +339,13 @@ INSERT INTO suppliers (supplier_id, company_name, contact_name, contact_title, a
 
 -- Create table
 CREATE TABLE shippers (
-    shipper_id INTEGER PRIMARY KEY,
+    id INTEGER PRIMARY KEY,
     company_name VARCHAR(255),
     phone VARCHAR(20)
 );
 
 -- Insert data
-INSERT INTO shippers (shipper_id, company_name, phone)
+INSERT INTO shippers (id, company_name, phone)
 VALUES 
     (1, 'Speedy Express', '(503) 555-9831'),
     (2, 'United Package', '(503) 555-3199'),
@@ -442,7 +443,7 @@ VALUES
     (73, 'Röd Kaviar', 17, 8, '24 - 150 g jars', 15.00, 101, 0, 5, 0),
     (74, 'Longlife Tofu', 4, 7, '5 kg pkg.', 10.00, 4, 20, 5, 0),
     (75, 'Rhönbräu Klosterbier', 12, 1, '24 - 0.5 l bottles', 7.75, 125, 0, 25, 0),
-    (76, 'Lakkalikööri', 23, 1, '500 ml', 18.00, 57, 0, 20, 0),
+    (76, 'Lakkalikööri', 23, 1, '1 - 500 ml', 18.00, 57, 0, 20, 0),
     (77, 'Original Frankfurter grüne Soße', 12, 2, '12 boxes', 13.00, 32, 0, 15, 0);
 
 CREATE TABLE orders (
@@ -452,7 +453,7 @@ CREATE TABLE orders (
     order_date DATE,
     required_date DATE,
     shipped_date DATE,
-    ship_via INTEGER REFERENCES shippers(shipper_id),
+    ship_via INTEGER REFERENCES shippers(id),
     freight NUMERIC(10, 2),
     ship_name VARCHAR(255),
     ship_address VARCHAR(255),
