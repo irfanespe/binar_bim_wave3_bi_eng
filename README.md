@@ -24,4 +24,17 @@
 
   ## Chapter 8
   - FD 1 : 
-    - dataset : 
+    - materials : [Transformation 1](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter8/dim%20and%20fact%20tables.ipynb)
+    - dataset : [women_clothing_ecommerce.csv](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/ecommerce_women_clothing.csv) and [code_complete.sql](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/code_complete.sql)
+    - theory : [dim and fact]()
+
+  - FD 2:
+    - materials : [Transformation 2-3](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter8/dim%20and%20fact%20tables.ipynb)
+    - dataset : [women_clothing_ecommerce.csv](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/ecommerce_women_clothing.csv) and [code_complete.sql](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/code_complete.sql)
+
+    - FD 3:
+      - materials : 
+        a. [Python function](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter8/function.ipynb)
+        b. [Transformation 2-3](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter8/dim%20and%20fact%20tables.ipynb)
+        c. [Full production ready python file example](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter8/hash_order_details.py)
+      - dataset : [women_clothing_ecommerce.csv](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/ecommerce_women_clothing.csv) and [code_complete.sql](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/code_complete.sql)
