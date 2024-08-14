@@ -39,3 +39,13 @@
       b. [Transformation 4](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter8/dim%20and%20fact%20tables.ipynb)\
       c. [Full production ready python file example](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter8/hash_order_details.py)
     - dataset : [women_clothing_ecommerce.csv](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/ecommerce_women_clothing.csv) and [code_complete.sql](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/code_complete.sql)
+  
+  - FD 4:
+    - materials : [Transformation 5-6](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter7/ETL.ipynb)
+    - dataset : [women_clothing_ecommerce.csv](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/ecommerce_women_clothing.csv) and [code_complete.sql](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/dataset/code_complete.sql)
+    - activity : Full process creation for ETL
+
+  - FD 5:
+    - materials [Data model design](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter8/data%20model%20design.xlsx)
+    - activity : [Data model assignment](https://github.com/irfanespe/binar_bim_wave3_bi_eng/blob/master/chapter8/Data%20model%20assignment.xlsx)
+    - dataset for activity : [thelookecommerce](https://github.com/irfanespe/binar_bim_wave3_bi_eng/tree/master/dataset/thelook_ecommerce)
